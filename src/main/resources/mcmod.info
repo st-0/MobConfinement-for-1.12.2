@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mobconfinement",
+  "name": "MobConfinement",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ayamitsu, Verclene, SATO-REI"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
